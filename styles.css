@@ -151,4 +151,17 @@ body {
     height: 18px;
     line-height: 16px;
 }
+@media (max-width: 480px) {
+    .branding-footer {
+        font-size: 0.7rem;
+        padding: 2px 0 0 0;
+        height: 16px;
+        line-height: 14px;
+        left: 0;
+        right: 0;
+        width: 100vw;
+        box-sizing: border-box;
+    }
+}
+
 
