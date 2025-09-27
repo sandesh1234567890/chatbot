@@ -1,4 +1,4 @@
-const API_KEY = 'API KEY'; 
+const API_KEY = 'AIzaSyD00olQrS9tJXjxrlpMyV3JY2w0UjPw_zs'; 
 // Replace with your actual Gemini API key – this stores the API key to authenticate requests to the Gemini API.
 
 const API_URL = 'https://generativelanguage.googleapis.com/v1beta/models/gemini-1.5-flash-latest:generateContent';
@@ -159,3 +159,4 @@ userInput.addEventListener('keypress', (e) => {
         // Calls `handleUserInput` to send the message.
     }
 });
+
